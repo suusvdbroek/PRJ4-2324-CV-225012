@@ -49,3 +49,12 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+/* PRACTICE FROM GUIDE PART 3 */
+
+.funky-text {
+	color: darkslateblue;
+	text-align: left;
+	font-style: italic;
+	text-decoration: underline #9457F1;
+}
