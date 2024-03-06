@@ -56,7 +56,10 @@ body {
 	font-style: italic;
 }
 
-.name-text {
+.fw-bolder {
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 	color: #2C302C;
 	text-align: left;
 }
