@@ -36,7 +36,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #2C302C;
 }
 
 .biography-details li, .skill-list li {
@@ -57,9 +57,12 @@ body {
 }
 
 .fw-bolder {
-  font-family: "Madimi One", sans-serif;
+  font-family: "DM Serif Display", serif;
   font-weight: 400;
   font-style: normal;
-	color: #2C302C;
-	text-align: left;
+	color: #2C302C
+}
+
+.move-up { 
+      margin-top: -7px;
 }
