@@ -29,7 +29,6 @@ body {
 
 .biography-details li::before, .skill-list li::before {
 	content: ">";
-	font-weight: 800;
 	display: inline-block;
 	width: 1em;
 	margin-left: -1em;
@@ -60,7 +59,21 @@ body {
   font-family: "DM Serif Display", serif;
   font-weight: 400;
   font-style: normal;
-	color: #2C302C
+	color: #2C302C;
+}
+
+.headers {
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+	color: #2C302C;
+}
+
+.body-text {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 350;
+  font-style: normal;
 }
 
 .move-up { 
