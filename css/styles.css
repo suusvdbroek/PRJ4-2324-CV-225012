@@ -79,3 +79,41 @@ body {
 .move-up { 
       margin-top: -7px;
 }
+
+  .languagecontainer { 
+            background-color: #B0B5AF; 
+            width: 80%; 
+            border-radius: 15px;
+	  		text-align: center
+        } 
+  
+.progressbar { 
+            background-color: #6E796F; 
+            color: white; 
+            padding: 1%;  
+            font-size: 15px; 
+            border-radius: 15px;
+			height: 24px;
+			vertical-align: middle;
+        } 
+ 
+.dutch { 
+    		width: 100%; 
+        } 
+
+.english { 
+            width: 75%; 
+        } 
+		
+.german { 
+            width: 25%; 
+        } 
+
+.french { 
+            width: 25%; 
+        } 
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
