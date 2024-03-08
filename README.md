@@ -1,3 +1,7 @@
+﻿Link to my cv:
+
+https://suusvdbroek.github.io/PRJ4-2324-CV-225012/
+
 # prj4-cv
 
 A template to create a CV while learning HTML and CSS
